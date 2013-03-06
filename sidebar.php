@@ -16,13 +16,13 @@
 
 <div class="row">
 	<div class="ten columns centered panel"
-		<a class="button" href="https://github.com/Shelob9/winterfell/archive/master.zip">Download</a>
+		<a class="button success" href="https://github.com/Shelob9/winterfell/archive/master.zip">Download</a>
 	</div>
 </div>
 
 <div class="row">
 	<div class="ten columns centered panel"
-		<a class="button" href="https://github.com/Shelob9/winterfell/">GitHub Repo</a>
+		<a class="button sucess" href="https://github.com/Shelob9/winterfell/">GitHub Repo</a>
 	</div>
 </div>
 <?php if ( dynamic_sidebar('Sidebar Right') ) : elseif( current_user_can( 'edit_theme_options' ) ) : ?>

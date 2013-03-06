@@ -8,6 +8,10 @@ What Is Included
 style.css, javascripts/custom.js and not much else.
 Custom.js controls masonry. The included version is identical to the version in the theme. When a child theme is used the theme will look for custom.js in the child theme. This way you can change your settings in the child theme, not the parent.
 
+Foundation 3 Docs
+=================
+http://foundation.zurb.com/old-docs/f3/
+
 Information on Child Theming
 ===========================
 http://codex.wordpress.org/Child_Themes

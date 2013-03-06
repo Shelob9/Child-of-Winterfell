@@ -15,4 +15,4 @@ Template: Winterfell
 *Import Winterfell Stylesheet
 * Make sure the Winterfell theme is installed at wp-content/themes/Winterfell or adjust the @import accordingly.
 **/
-@import url("../Winterfell/style.css");
+@import url("../winterfell/style.css");

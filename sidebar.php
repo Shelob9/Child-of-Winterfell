@@ -15,13 +15,13 @@
 <aside>
 
 <div class="row">
-	<div class="ten columns centered panel"
+	<div class="ten columns centered panel">
 		<a class="button radius" href="https://github.com/Shelob9/winterfell/archive/master.zip">Download</a>
 	</div>
 </div>
 
 <div class="row">
-	<div class="ten columns centered panel"
+	<div class="ten columns centered panel">
 		<a class="button radius" href="https://github.com/Shelob9/winterfell/">GitHub Repo</a>
 	</div>
 </div>

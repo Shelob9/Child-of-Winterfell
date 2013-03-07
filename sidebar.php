@@ -15,14 +15,14 @@
 <aside>
 
 <div class="row">
-	<div class="ten columns centered panel">
-		<a class="button radius" href="https://github.com/Shelob9/winterfell/archive/master.zip">Download</a>
+	<div class="six columns offset-by-two">
+		<a class="button success radius" href="https://github.com/Shelob9/winterfell/archive/master.zip">Download</a>
 	</div>
 </div>
 
 <div class="row">
-	<div class="ten columns centered panel">
-		<a class="button radius" href="https://github.com/Shelob9/winterfell/">GitHub Repo</a>
+	<div class="ten columns offset-by-two">
+		<a class="button success radius" href="https://github.com/Shelob9/winterfell/">GitHub Repo</a>
 	</div>
 </div>
 <?php if ( dynamic_sidebar('Sidebar Right') ) : elseif( current_user_can( 'edit_theme_options' ) ) : ?>

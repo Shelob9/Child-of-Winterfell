@@ -16,9 +16,10 @@
 		
 		<div class="row">
 			<div class="twelve columns">
-				<?php query_posts( 'cat=7' );
-					the_post();
-						get_template_part( 'loop', 'entry' );
+				<?php 
+					if (have_posts()) :
+						get_template_part( 'loop' , 'entry');
+					endif;
 				?>
 			</div>
 		</div>

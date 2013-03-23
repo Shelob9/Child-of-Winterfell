@@ -14,7 +14,4 @@
 
     </div>
     <!-- End Main Content -->
-<div class="three columns panel">
-	<?php get_sidebar(); ?>
-</div>
 <?php get_footer(); ?>

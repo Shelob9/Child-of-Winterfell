@@ -1,4 +1,4 @@
-<div class="flex-container nine columns" style="float:right">
+<div class="flex-container">
   <div class="flexslider">
 	<ul class="slides">
 	<?php

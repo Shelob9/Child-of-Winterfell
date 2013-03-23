@@ -10,7 +10,7 @@
 	
 <div class="row" id="mains">
 	<div class="twelve columns">
-		<div class="nine columns" id="masonry-wrap">	
+		<div class="twelve columns" id="masonry-wrap">	
 			<?php 
 			if (have_posts()) :
 				get_template_part( 'loop' , 'entry');

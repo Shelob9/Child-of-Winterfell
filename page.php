@@ -2,7 +2,7 @@
 
 
     <!-- Main Content -->
-    <div class="nine columns panel callout radius" role="content"  style="background:#D8D2B1; border:1px solid #799E65;">
+    <div class="twelve columns" role="content">
 
 		<?php if ( have_posts() ) : ?>
 

@@ -2,8 +2,11 @@
 
 function cwf_scriptStyles() {
 	//style
-		//removed parent foundation.min.css
-		wp_dequeue_style('foundation-css');
+		//removed parent foundation.min.css and main style.css
+		wp_dequeue_style('foundation');
+		wp_deregister_style('foundation');
+		wp_dequeue_style('main');
+		wp_deregister_style('main');
 		//replace foundation.min.css
 		wp_enqueue_style('child-foundation', get_stylesheet_directory_uri().'/stylesheets/foundation.min.css');
 		//enqueue main css for child theme

@@ -128,7 +128,7 @@ color:#fff;
 	margin-bottom: 80px;
 	margin-left: 225px;
 }
-#total-wrap {
+.total-wrap {
 background: #CBD6BF;
 margin-top:10px;
 margin-bottom:10px;
@@ -177,6 +177,40 @@ content: ".";
 border-radius:3px;
 border:solid 1px #e6e6e6;
 }
+.extra-button {
+	
+	color: #ffffff;
+	padding-right: 10px;
+	padding-top:2px;
+	padding-bottom:2px;
+	background: -moz-linear-gradient(
+		top,
+		#cbd6bf 0%,
+		#b8b8b8 25%,
+		#ffffff);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#cbd6bf),
+		color-stop(0.25, #b8b8b8),
+		to(#ffffff));
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #65964f;
+	-moz-box-shadow:
+		2px -1px 4px rgba(90,133,152,0.3),
+		inset -1px 0px 7px rgba(230,230,230,0.5);
+	-webkit-box-shadow:
+		2px -1px 4px rgba(90,133,152,0.3),
+		inset -1px 0px 7px rgba(230,230,230,0.5);
+	box-shadow:
+		2px -1px 4px rgba(90,133,152,0.3),
+		inset -1px 0px 7px rgba(230,230,230,0.5);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0),
+		0px 1px 0px rgba(255,255,255,0);
+}
+
 /* -----------------------------------------
    FC Webicons by Fairhead Creative http://fairheadcreative.com */
 ----------------------------------------- */

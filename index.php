@@ -18,7 +18,7 @@
 			?>
 		</div>
 		<!-- /masonry-wrap -->
-			
+	</div>		
 		
-
+</div>
 <?php get_footer(' '); ?>

@@ -16,7 +16,7 @@ Version: 13.1
 *Import Winterfell Stylesheet
 * Make sure the Winterfell theme is installed at wp-content/themes/Winterfell or adjust the @import accordingly.
 **/
-@import url("../Winterfell/style.css");
+
 
 /**
 http://www.lavishbootstrap.com/?utf8=%E2%9C%93&image_url=http%3A%2F%2Fcomplexwaveform.com%2Fprofile%2Fimg%2Fsitting%40goddard-h.png&commit=Go+Lavish

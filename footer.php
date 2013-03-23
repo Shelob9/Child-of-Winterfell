@@ -22,11 +22,13 @@
 	<div class="row">
 		<div class=" ten columns centered total-wrap" style="padding-top:4px; padding-bottom:4px;">
 			<div class="row">
-				<div class="two columns mobile-two" id="twitter">
+				<div class="two columns" id="twitter">
 					<a href="https://twitter.com/Josh412" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @Josh412</a>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
-				<div class="three columns offset-by-four mobile-two">
+				<div class="four columns ">&nbsp;
+				</div>
+				<div class="three columns mobile-two push-two-mobile">
 					<a href="mailto:JPollock412@gmail.com">
 						<img src="<?php $src = get_stylesheet_directory_uri().'/stylesheets/images/fc-webicon-mail-m.png'; echo $src; ?>" >
 					</a>

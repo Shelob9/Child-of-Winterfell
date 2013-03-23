@@ -1,6 +1,6 @@
 <?php
 
-cwf_scriptStyles {
+function cwf_scriptStyles() {
 	//style
 		//removed parent foundation.min.css
 		wp_dequeue_style('foundation');
@@ -13,5 +13,5 @@ cwf_scriptStyles {
 		wp_enqueue_script('masonry-settings', get_stylesheet_directory_uri().'javascripts/custom.js');
 		//prettybox
 }
-add_action( 'wp_enqueue_scripts', 'cwf_scriptsStyles' );
+add_action( 'wp_enqueue_scripts', 'cwf_scriptStyles' );
  ?>

@@ -4,14 +4,11 @@
     <!-- Main Content -->
     <div class="twelve columns" role="content">
 
-		<?php if ( have_posts() ) : ?>
-
-			<?php while ( have_posts() ) : the_post(); ?>
-				<?php get_template_part( 'content', 'page' ); ?>
-			<?php endwhile; ?>
-			
-		<?php endif; ?>
-
+		<?php query_posts( 'cat=81' );
+			while ( have_posts() ) : the_post();
+				get_template_part( 'loop', 'entry' );
+			endwhile;
+		?>
     </div>
     <!-- End Main Content -->
 </div>

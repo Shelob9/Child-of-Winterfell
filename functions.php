@@ -3,7 +3,7 @@
 function cwf_scriptStyles() {
 	//style
 		//removed parent foundation.min.css
-		wp_dequeue_style('foundation');
+		wp_dequeue_style('foundation-css');
 		//replace foundation.min.css
 		wp_enqueue_style('child-foundation', get_stylesheet_directory_uri().'/stylesheets/foundation.min.css');
 		//enqueue main css for child theme

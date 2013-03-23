@@ -32,7 +32,7 @@
 </head>
 
 <body <?php body_class(); ?>>
-	<div class="row" id="total-wrap">
+	<div class="row total-wrap">
 		<header>
 			<div class="row">
 				<div class="site-title six columns mobile-four">

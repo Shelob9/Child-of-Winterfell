@@ -10,7 +10,10 @@
 <article>
 
 	<header>
+		<?php if ( !is_page('421')) {
+		?>
 		<h2><a href="<?php the_permalink(); ?>" title="<?php echo esc_attr( sprintf( __( 'Permalink to %s', 'foundation' ), the_title_attribute( 'echo=0' ) ) ); ?>" rel="bookmark"><?php the_title(); ?></a></h2>
+		<?php } ?>
 	</header>
 
 	<?php if ( has_post_thumbnail()) : ?>

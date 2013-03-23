@@ -33,19 +33,23 @@
 
 <body <?php body_class(); ?>>
 	<div class="row" id="total-wrap">
-		<header class="row">
-
-			<hgroup class="site-title eight columns">
-				<h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-				<h3 class="subheader"><?php bloginfo('description'); ?></h3>
-			</hgroup>
-
-			
-		
+		<header>
+			<div class="row">
+				<div class="site-title six columns mobile-four">
+					<h1><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">Josh Pollock</a></h1>
+				
+				</div>
+				<div class="menu-main-menu-container six columns mobile-four">
+					<?php wp_nav_menu( array('menu' => 'Main Menu' )); ?>	
+				</div>
+			</div>
+			<div class="row">
+				<div class="twelve columns subheader">
+					<h5>Student of Environmental Studies, Writer and WordPress guy.</h5>
+				</div>
+			</div>
 		</header>
-	<div class="menu-main-menu-container">
-		<?php wp_nav_menu( array('menu' => 'Main Menu' )); ?>	
-	</div>
+	
 <!-- Begin Page -->
 
 

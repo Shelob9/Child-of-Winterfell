@@ -11,10 +11,10 @@ get_header(); ?>
 <div class="twelve columns" role="content">
 	<header style="margin-bottom:45px;">
 		<div class="row" >
-			<div class="six columns mobile-two">
+			<div class="eight columns mobile-four">
 				<h1>Josh Pollock: Resume</h1>
 			</div>
-			<div class="four columns mobile-one">
+			<div class="four columns mobile-four">
 				<div class="row" style="margin-bottom:16px;">
 					Contact:<br />
 					<a href="mailto:JPollock412@gmail.com" class="genericon genericon-mail" style="font-size:32px; margin-right:16px;"></a>

@@ -11,7 +11,7 @@
 get_header(); ?>
 
     <!-- Main Content -->
-    <div class="nine columns panel callout radius" role="content" style="background:#D8D2B1; border:1px solid #799E65;">
+    <div class="twelve columns">
 
 		<?php if ( have_posts() ) : ?>
 
@@ -23,7 +23,5 @@ get_header(); ?>
 
     </div>
     <!-- End Main Content -->
-<div class="three columns panel">
-	<?php get_sidebar(); ?>
 </div>
 <?php get_footer(); ?>

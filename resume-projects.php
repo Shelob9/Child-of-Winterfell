@@ -35,6 +35,7 @@ $aft = "\">";
 				<em>Site is currently in soft-launch phase while we seek funding and additional content.</em>
 		</div>
 	</div>
+	<hr />
 <!--Winterfell-->	
 	<div class="row">
 		<div class="three columns res-rec" >
@@ -67,6 +68,7 @@ $aft = "\">";
 				<em><a href="http://themes.trac.wordpress.org/query?owner=shelob9&status=accepted&status=assigned&status=closed&status=new&status=reopened&col=id&col=summary&col=status&col=type&col=priority&col=time&col=changetime&order=priority">See my theme review tickets.</a></em>
 		</div>
 	</div>
+	<hr />
 <!--Ecohyphen-->	
 	<div class="row">
 		<div class="three columns res-rec" >

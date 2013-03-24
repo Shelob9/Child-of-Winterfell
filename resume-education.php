@@ -32,7 +32,7 @@ $aft = "\">";
 				</ul>
 		</div>
 	</div>
-	
+	<hr />	
 	<div class="row">
 		<div class="two columns res-sq" style="margin-top:6px;">
 			<a href="http://www.newschool.edu/lang/" title="Euguene Lang College, The New School For Liberal Arts">
@@ -61,7 +61,7 @@ $aft = "\">";
 				</ul>
 		</div>
 	</div>
-	
+	<hr />
 	<div class="row">
 		<div class="two columns res-sq" style="margin-top:6px;">
 			<a href="http://FullSail.com" title="Full Sail University">

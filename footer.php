@@ -8,14 +8,7 @@
  * @since Foundation, for WordPress 1.0
  */
 ?>
-
-
 <!-- End Page -->
-
-
-
-
-
 <!-- Footer -->
 <footer>
 	

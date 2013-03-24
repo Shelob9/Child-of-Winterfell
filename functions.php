@@ -11,7 +11,7 @@ function cwf_scriptStyles() {
 		wp_enqueue_style('child-foundation', get_stylesheet_directory_uri().'/stylesheets/foundation.min.css');
 		//enqueue main css for child theme
 		wp_enqueue_style('child-main', get_stylesheet_directory_uri().'/style.css');
-		//wp_enqueue_style('fc-webicons', get_stylesheet_directory_uri().'/stylesheets/fc-webicons.css');
+		wp_enqueue_style('genericons', get_stylesheet_directory_uri().'/stylesheets/genericons.css');
 	//js
 		/**masonry settings
 		wp_dequeue_script('custom');

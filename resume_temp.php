@@ -9,10 +9,88 @@ get_header(); ?>
 
 <!-- Main Content -->
 <div class="twelve columns" role="content">
+	<hgroup style="margin-bottom:45px;">
+		<div class="row" >
+			<div class="six columns mobile-three">
+				<h1>Josh Pollock: Resume</h1>
+			</div>
+			<div class="two columns offset-by-two mobile-one" >
+									<a id="single_image" class="group" rel="gallery2" href="images/josh-face-180x180.jpg" title="Josh Pollock."> 
 
+				<img src="images/josh-face-50x50.jpg">
+			</a>
+			</div>
+		</div>
+		<div class="row">
+			<h5>Working to develop tools for environmental education and advocacy using open source software that leverage the power of online social media and promote a re-engagement with the natural world.</h5>
+		</div>
+	</hgroup>
+	<div class="row">
+		<div id="main" role="main" class="twelve columns centered ">
+			<section class="slider">
+				<div class="flexslider">
+					<ul class="slides">
+						<li data-thumb="images/r-ed.jpg">
+							<h3>Education<h3>
+						</li>
+						<li data-thumb="images/r-skills.jpg">
+							<h3>Skills</h3>
+								<UL>
+									<LI><P STYLE="margin-bottom: 0.04in"><strong>Environmental
+									Studies-</strong> Trans-displinary education focusing on how behaviors and
+									practices do and not change in regards to environmentalism.</P>
+									<LI><P STYLE="margin-bottom: 0.04in"><strong>Web
+									Design-</strong> WordPress theme customization using HTML, CSS, PHP, jQuery
+									and Git. Site, project and content management.</P>
+									<LI><P STYLE="margin-bottom: 0.04in"><strong>Social
+									Media-</strong> Experienced with major networks and social media management
+									systems such as Hootsuite, Bootlenose, and Buffer.</P>
+									<LI><P STYLE="margin-bottom: 0.04in"><strong>Multimedia
+									Production-</strong> Extensive experience with audio production and editing
+									for music and video. Proficient with Adobe Photoshop and
+									Illustrator.</P></li>
+								</UL>
+						</li>
+						<li data-thumb="images/r-proj.jpg">
+							<h3>Projects</h3>
+						</li>
+						<li data-thumb="images/r-exp.jpg">
+							<h3>Professional Experience</h3>
+						</li>
+					</ul>
+				</div>
+		  </section>
+	</div>
+
+	<div class="row" style="border-top:1px solid black;">
+		<div class="ten columns centered">
+			<div class="three mobile-one columns" id="mail>
+				<a href="mailto:JPollock412@gmail.com">
+					<img src="images/mail.png">
+				</a>
+			</div>
+			<div class="three mobile-one columns" id="Word">
+				<a href="https://github.com/Shelob9/place-presentation/archive/master.zip">
+				<img src="images/zip.png">
+				</a>
+			</div>
+
+
+			<div class="three mobile-one columns" id="twitter">
+				  <a href="https://twitter.com/Josh412" title="Josh Pollock: Twitter">
+					  <img src="images/twitter.png">
+				  </a>
+	  
+			</div>
+			<div class="three mobile-one columns" id="linkedin">
+				<a href="www.linkedin.com/pub/josh-pollock/5/900/978/" title="LinkedIn Profile">
+					<img src="images/linkedin.png">
+				</a>
+			</div>
+		</div>
+	 </div> 
 
 
 </div>
 <!-- End Main Content -->
-</div>
-<?php get_footer(); ?>
+<?php wp_footer ?>

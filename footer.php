@@ -28,7 +28,7 @@
 				</div>
 				<div class="four columns hide-for-small">&nbsp;
 				</div>
-				<div class="nine columns mobile-one  hide-for-medium-up">
+				<div class="mobile-one  show-for-small">
 					<a href="http://twitter.com/Josh412">
 						<img src="<?php $src = get_stylesheet_directory_uri().'/stylesheets/images/fc-webicon-twitter-m.png'; echo $src; ?>" >
 					</a>

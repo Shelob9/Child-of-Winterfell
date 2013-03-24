@@ -3,7 +3,7 @@
 <!--AT-->
 	<div class="row">
 		<div class="ten columns">
-			Academic Technology, The New School. 
+			<a href="http://www.newschool.edu/information-technology/technology-labs/" "Academic Technology, The New School">New School Academic Technology</a> 
 		</div>
 		<div class="two columns" style="text-align:right;">
 			New York, NY
@@ -11,7 +11,7 @@
 	</div>
 	<div class="row">
 		<div class="ten columns">
-			Equipment Center Lab Aide 
+			<a href="http://www.newschool.edu/information-technology/equipment-center/" title="New Shcool Equipment Center">Equipment Center</a> Lab Aide 
 		</div>
 		<div class="two columns" style="text-align:right;">
 			2009-2010
@@ -27,7 +27,9 @@
 <!--Volt-->
 	<div class="row">
 		<div class="ten columns">
-			Volt Workforce Solutions
+			<a href="http://Volt.com" title="Volt Workforce Solutions">
+				Volt Workforce Solutions
+			</a>
 		</div>
 		<div class="two columns" style="text-align:right;">
 			New York, NY
@@ -35,7 +37,7 @@
 	</div>
 	<div class="row">
 		<div class="ten columns">
-			Apple Campus Representative 
+			<a href="http://www.apple.com/education/campusreps/" title="Apple Campus Rep Program">Apple Campus Representative</a>
 		</div>
 		<div class="two columns" style="text-align:right;">
 			2009
@@ -54,7 +56,9 @@
 <!--Open Space Alliance-->
 	<div class="row">
 		<div class="ten columns">
-			Volt Workforce Solutions, Apple Computer
+			<a href="http:/OSINY.org" title="Open Space Alliance of New York">
+				Open Space Alliance of New York
+			</a>
 		</div>
 		<div class="two columns" style="text-align:right;">
 			New York, NY
@@ -62,7 +66,7 @@
 	</div>
 	<div class="row">
 		<div class="ten columns">
-			Apple Campus Representative 
+			Intern
 		</div>
 		<div class="two columns" style="text-align:right;">
 			2009
@@ -71,7 +75,7 @@
 	<div class="row">
 		<div class="twelve columns">
 			<ul>
-				<li>Implemented new online communication system for Citizen's Action program.</li>
+				<li>Implemented new online communication system for OSI's <a href="http://www.osiny.org/site/PageServer?pagename=Issues_citizen_action" title="Citizen's Action program">Citizen's Action program</a>.</li>
 			</ul>
 		</div>
 	</div>

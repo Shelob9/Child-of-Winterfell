@@ -41,7 +41,7 @@ get_header(); ?>
 						<?php $src = site_url('assets/r-ed.jpg') ?>
 						<li data-thumb="<?php echo $src; ?>">
 							<h3>Education</h3>
-							
+								<?php get_template_part('resume','education'); ?>
 
 						
 						</li>

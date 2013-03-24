@@ -42,8 +42,6 @@ get_header(); ?>
 						<li data-thumb="<?php echo $src; ?>">
 							<h3>Education</h3>
 								<?php get_template_part('resume','education'); ?>
-
-						
 						</li>
 						<?php $src = site_url('assets/r-skills.jpg') ?>
 						<li data-thumb="<?php echo $src; ?>">
@@ -71,33 +69,7 @@ get_header(); ?>
 		  </section>
 	</div>
 
-	<div class="row" style="border-top:1px solid black;">
-		<div class="ten columns centered">
-			<div class="three mobile-one columns" id="mail>
-				<a href="mailto:JPollock412@gmail.com">
-					<img src="images/mail.png">
-				</a>
-			</div>
-			<div class="three mobile-one columns" id="Word">
-				<a href="https://github.com/Shelob9/place-presentation/archive/master.zip">
-				<img src="images/zip.png">
-				</a>
-			</div>
-
-
-			<div class="three mobile-one columns" id="twitter">
-				  <a href="https://twitter.com/Josh412" title="Josh Pollock: Twitter">
-					  <img src="images/twitter.png">
-				  </a>
-	  
-			</div>
-			<div class="three mobile-one columns" id="linkedin">
-				<a href="www.linkedin.com/pub/josh-pollock/5/900/978/" title="LinkedIn Profile">
-					<img src="images/linkedin.png">
-				</a>
-			</div>
-		</div>
-	 </div> 
+	
 
 
 </div>

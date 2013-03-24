@@ -8,8 +8,9 @@
 	);
 	query_posts( $args );
 	while ( have_posts() ) : the_post();
+	
 	?>
-		<li>
+		<li data-thumb=" "> 
 			<?php the_post_thumbnail( array(367,250) ); ?>
 			<?php the_content(); ?>
 		</li>

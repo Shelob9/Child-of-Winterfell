@@ -6,20 +6,23 @@ $aft = "\">";
 <div class="twelve columns centered">
 	<div class="row">
 		<div class="two columns res-sq" style="margin-top:6px;">
-			<?php
-			$sqsrc = site_url('assets/gd-sq.jpg');
-			$sq = $bef.$sqsrc.$aft;
-			echo $sq;
-			?>
-			
+			<a href="http://Goddard.edu" title="Goddard College">
+				<?php
+				$sqsrc = site_url('assets/gd-sq.jpg');
+				$sq = $bef.$sqsrc.$aft;
+				echo $sq;
+				?>
+			</a>	
 		</div>
 		<div class="ten columns" >
 			<div class="row">
 				<div class="ten columns">
-				Masters of Arts Candidate in Environmental Studies
+				<a href="http://www.goddard.edu/ma-individualized-studies" title="Goddard College  Individualized Masters of the Arts">
+					Individualized Masters of the Arts, Environmental Studies Concentration (Candidate)
+				</a>
 				</div>
 				<div class="two columns" style="text-align:right;" >
-				2011-Present
+					2011-Present
 				</div>
 			</div>
 				<ul style="margin-left:30px;">
@@ -32,20 +35,23 @@ $aft = "\">";
 	
 	<div class="row">
 		<div class="two columns res-sq" style="margin-top:6px;">
-			<?php
-			$sqsrc = site_url('assets/ns-sq.jpg');
-			$sq = $bef.$sqsrc.$aft;
-			echo $sq;
-			?>
-			
+			<a href="http://www.newschool.edu/lang/" title="Euguene Lang College, The New School For Liberal Arts">
+				<?php
+				$sqsrc = site_url('assets/ns-sq.jpg');
+				$sq = $bef.$sqsrc.$aft;
+				echo $sq;
+				?>
+			</a>
 		</div>
 		<div class="ten columns" >
 			<div class="row">
 				<div class="ten columns">
-				Bachelor of the Arts in Environmental Studies			                      
+					<a href="http://www.newschool.edu/lang/environmental-studies/" title="Euguene Lang Environmental Studies">
+						Bachelor of the Arts in Environmental Studies
+					</a>		                      
 				</div>
 				<div class="two columns" style="text-align:right;" >
-				2008-2010
+					2008-2010
 				</div>
 			</div>
 				<ul style="margin-left:30px;">
@@ -58,16 +64,20 @@ $aft = "\">";
 	
 	<div class="row">
 		<div class="two columns res-sq" style="margin-top:6px;">
-			<?php
-			$sqsrc = site_url('assets/fs-sq.jpg');	
-			$sq = $bef.$sqsrc.$aft;
-			echo $sq;
-			?>
+			<a href="http://FullSail.com" title="Full Sail University">
+				<?php
+				$sqsrc = site_url('assets/fs-sq.jpg');	
+				$sq = $bef.$sqsrc.$aft;
+				echo $sq;
+				?>
+			</a>
 		</div>
 		<div class="ten columns" >
 			<div class="row">
 				<div class="ten columns">
-				Associate of Science in Recording Arts			                      
+					<a href="http://www.fullsail.edu/degrees/campus/recording-engineering-associates" title="Full Saill Recording Engineering">
+						Associate of Science in Recording Arts	
+					</a>		                      
 				</div>
 				<div class="two columns" style="text-align:right;" >
 				2008-2010

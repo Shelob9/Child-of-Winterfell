@@ -29,24 +29,23 @@
 				<div class="four columns hide-for-small">&nbsp;
 				</div>
 				<div class="nine columns mobile-one  hide-for-medium-up">
-									<a href="mailto:JPollock412@gmail.com">
+					<a href="http://twitter.com/Josh412">
 						<img src="<?php $src = get_stylesheet_directory_uri().'/stylesheets/images/fc-webicon-twitter-m.png'; echo $src; ?>" >
-					
 					</a>
 				</div>
 					
 				<div class="three columns">
 				
 					<a href="mailto:JPollock412@gmail.com">
-						<img src="<?php $src = get_stylesheet_directory_uri().'/stylesheets/images/fc-webicon-tumblr-m.png'; echo $src; ?>" >
-					</a>
-					<a href="mailto:JPollock412@gmail.com">
 						<img src="<?php $src = get_stylesheet_directory_uri().'/stylesheets/images/fc-webicon-mail-m.png'; echo $src; ?>" >
+					</a>
+					<a href="21and24.tumblr.com">
+						<img src="<?php $src = get_stylesheet_directory_uri().'/stylesheets/images/fc-webicon-tumblr-m.png'; echo $src; ?>" >
 					</a>
 					<a href="https://plus.google.com/u/0/108295629672902361491" rel="me">
 						<img src="<?php $src = get_stylesheet_directory_uri().'/stylesheets/images/fc-webicon-googleplus-m.png'; echo $src; ?>" >
 					</a>
-					<a href="https://plus.google.com/u/0/108295629672902361491" rel="me">
+					<a href="http://www.linkedin.com/pub/josh-pollock/5/900/978" rel="me">
 						<img src="<?php $src = get_stylesheet_directory_uri().'/stylesheets/images/fc-webicon-linkedin-m.png'; echo $src; ?>" >
 					</a>
 				</div>

@@ -38,10 +38,12 @@ get_header(); ?>
 			<section class="slider">
 				<div class="flexslider">
 					<ul class="slides">
-						<li data-thumb="images/r-ed.jpg">
+						<?php $src = site_url('assets/r-ed.jpg') ?>
+						<li data-thumb="<?php echo $src; ?>">
 							<h3>Education<h3>
 						</li>
-						<li data-thumb="images/r-skills.jpg">
+						<?php $src = site_url('assets/r-skills.jpg') ?>
+						<li data-thumb="<?php echo $src; ?>">
 							<h3>Skills</h3>
 								<UL>
 									<LI><P STYLE="margin-bottom: 0.04in"><strong>Environmental
@@ -59,10 +61,12 @@ get_header(); ?>
 									Illustrator.</P></li>
 								</UL>
 						</li>
-						<li data-thumb="images/r-proj.jpg">
+						<?php $src = site_url('assets/r-proj.jpg') ?>
+						<li data-thumb="<?php echo $src; ?>">
 							<h3>Projects</h3>
 						</li>
-						<li data-thumb="images/r-exp.jpg">
+						<?php $src = site_url('assets/r-exp.jpg') ?>
+						<li data-thumb="<?php echo $src; ?>">
 							<h3>Professional Experience</h3>
 						</li>
 					</ul>

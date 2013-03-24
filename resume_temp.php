@@ -25,7 +25,7 @@ get_header(); ?>
 							$src = get_stylesheet_directory_uri().'/stylesheets/images/odt.png';
 							$icon = $bef.$src.$aft;
 							?>
-							<a href="<?php $odt; ?>" title="Download as Open Office Text Document">
+							<a href="<?php $odt; ?>" title="Download as Open Office Text Document" style="margin-right:16px;">
 								<?php echo $icon; ?>
 							</a>
 							<?php
@@ -41,7 +41,7 @@ get_header(); ?>
 							$src = get_stylesheet_directory_uri().'/stylesheets/images/pdf.png';
 							$icon = $bef.$src.$aft;
 							?>
-							<a href="<?php $link; ?>" title="Download as PDF">
+							<a href="<?php $link; ?>" title="Download as PDF" style="margin-left:16px;">
 								<?php echo $icon; ?>
 							</a>
 						</div>

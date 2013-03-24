@@ -1,14 +1,28 @@
-Goddard College									      2011-Present
-Masters of Arts Candidate in Environmental Studies
-Studied green architectural theory, cognitive psychology, evolutionary biology, social organization and environmental education. 
-Currently preparing thesis with expected graduation date of August 2013.
-Member of student council.
-Eugene Lang College, New School University 				                      2008-2010
-Bachelor of the Arts in Environmental Studies
-Studied ecology, chemistry, physics and environmental policy.
-Completed fieldwork assisting research on Million Trees NYC, and thesis on mental models and climate change. 
-Participated in fiction and creative non-fiction writing workshops.
-Full Sail University								          2004-2005
-Associate of Science in Recording Arts
-Studied audio engineering for music, film, and game production.
-Studied music theory, history and business.
+<?php
+$bef = "<img src=\"";
+$aft = "\">";
+$aftz = "\" width=\"150\" height=\"150\">";
+?>
+<div class="twelve columns centered">
+	<div class="row">
+		<div class="two columns res-sq">
+			<?php
+			$sqsrc = site_url('assets/gd-sq.jpg');
+		
+			$sq = $bef.$sqsrc.$aft;
+			echo $sq;
+			?>
+			<p style="text-align:center;">Goddard College<br />
+			Plainfield, VT</p>
+		</div>
+		<div class="ten columns">
+			<h6>Masters of Arts Candidate in Environmental Studies</h6>
+			<h5>2011-Present</h5>
+				<ul>
+					<li>Studied green architectural theory, cognitive psychology, evolutionary biology, social organization and environmental education.</li>
+					<li>Currently preparing thesis with expected graduation date of August 2013.</li>
+					<li>Member of student council.</li>
+				</ul>
+		</div>
+	</div>
+</div>

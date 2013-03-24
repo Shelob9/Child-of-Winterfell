@@ -24,12 +24,9 @@ get_header(); ?>
 				</a>
 			</div>
 			<div class="two columns mobile-one">
-				<a href="mailto:JPollock412@gmail.com" class="genericon genericon-mail">
-
-				</a>
-				<a href="http://www.linkedin.com/pub/josh-pollock/5/900/978" class="genericon genericon-linkedin-alt">
-					
-				</a>
+				<a href="mailto:JPollock412@gmail.com" class="genericon genericon-mail"></a>
+				<a href="http://www.linkedin.com/pub/josh-pollock/5/900/978" class="genericon genericon-linkedin-alt"></a>
+				<a href="/" class="genericon genericon-home"></a>
 			</div>
 		</div>
 		<div class="row">

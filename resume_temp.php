@@ -3,9 +3,6 @@
  * Template Name: Resume Template
  */
 get_header(); ?>
-<header>
-
-</header>
 
 <!-- Main Content -->
 <div class="twelve columns" role="content">

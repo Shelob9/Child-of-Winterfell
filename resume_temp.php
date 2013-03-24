@@ -9,19 +9,10 @@ get_header(); ?>
 
 <!-- Main Content -->
 <div class="twelve columns" role="content">
-	<hgroup style="margin-bottom:45px;">
+	<header style="margin-bottom:45px;">
 		<div class="row" >
 			<div class="six columns mobile-two">
 				<h1>Josh Pollock: Resume</h1>
-			</div>
-			<div class="one columns mobile-one" >
-				<?php
-				$f = site_url('/assets/Josh.jpg', 'http'); 
-				$t = site_url('assets/Josh-50x66.jpg', 'http'); 
-				?>					
-				<a id="single_image" class="group" href="<?php echo $f; ?>" title="Josh Pollock."> 
-					<img src="<?php echo $t; ?>">
-				</a>
 			</div>
 			<div class="four columns mobile-one">
 				<div class="row" style="margin-bottom:16px;">
@@ -62,6 +53,7 @@ get_header(); ?>
 				</div>
 			</div>
 		</div>
+	</header>
 		
 		<div class="row">
 			<h5>Working to develop tools for environmental education and advocacy using open source software that leverage the power of online social media and promotes a re-engagement with the natural world.</h5>

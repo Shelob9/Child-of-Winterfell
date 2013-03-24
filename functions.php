@@ -29,8 +29,8 @@ function cwf_scriptStyles() {
 		wp_enqueue_script('fancyboxSet', get_stylesheet_directory_uri().'/javascripts/fancybox-set.js', array(), false, true);
 	}
 add_action( 'wp_enqueue_scripts', 'cwf_scriptStyles', 20 );
-
-
+		add_image_size( 'face', 50, 66);
+		add_image_size( '50sq', 50, 50);
 		add_image_size( '300sq',  300, 300);
 		add_image_size( '500sq',  500, 500 );
 		add_image_size( '600sq',  600, 600);

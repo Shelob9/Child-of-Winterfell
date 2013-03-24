@@ -11,14 +11,25 @@ get_header(); ?>
 <div class="twelve columns" role="content">
 	<hgroup style="margin-bottom:45px;">
 		<div class="row" >
-			<div class="six columns mobile-three">
+			<div class="nine columns mobile-two">
 				<h1>Josh Pollock: Resume</h1>
 			</div>
-			<div class="two columns offset-by-two mobile-one" >
-									<a id="single_image" class="group" rel="gallery2" href="images/josh-face-180x180.jpg" title="Josh Pollock."> 
+			<div class="one columns mobile-one" >
+				<?php
+				$f = site_url('/assets/Josh.jpg', 'http'); 
+				$t = site_url('assets/Josh-50x66.jpg', 'http'); 
+				?>					
+				<a id="single_image" class="group" href="<?php echo $f; ?>" title="Josh Pollock."> 
+					<img src="<?php echo $t; ?>">
+				</a>
+			</div>
+			<div class="two columns mobile-one">
+				<a href="mailto:JPollock412@gmail.com" class="genericon genericon-mail">
 
-				<img src="images/josh-face-50x50.jpg">
-			</a>
+				</a>
+				<a href="http://www.linkedin.com/pub/josh-pollock/5/900/978" class="genericon genericon-linkedin-alt">
+					
+				</a>
 			</div>
 		</div>
 		<div class="row">
@@ -93,4 +104,7 @@ get_header(); ?>
 
 </div>
 <!-- End Main Content -->
-<?php wp_footer ?>
+</div><!--#Total-Wrap -->
+<?php wp_footer(); ?>
+</body>
+</html>

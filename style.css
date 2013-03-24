@@ -210,3 +210,6 @@ border:solid 1px #e6e6e6;
 		0px -1px 0px rgba(000,000,000,0),
 		0px 1px 0px rgba(255,255,255,0);
 }
+.res-sq{
+max-width: 150px;
+height: auto;

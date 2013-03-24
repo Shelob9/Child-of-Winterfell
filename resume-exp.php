@@ -1,9 +1,106 @@
-<ul>
-	<li><strong>Environmental Studies-</strong> Trans-displinary education focusing on how behaviors and practices do and do not change with regard to environmentalism.</li>
-	<li><strong>Web Design-</strong> WordPress theme customization using HTML, CSS, PHP, jQuery and Git. Site, project and content management.</li>
-	<li><strong>Social Media-</strong> Experienced with major networks and social media management systems such as Hootsuite, Bootlenose, and Buffer.</li>
-	<li><strong>Multimedia Production-</strong> Extensive experience with audio production and editing for music and video. Proficient with Adobe Photoshop and Illustrator.</li>
-	<li><strong>Writing-</strong> Studied fiction, journalism and creative non-fiction. Published articles on various oonline publications on subjects including social media, science fiction to canine PTSD.</li>
-	<li><strong>Computers-</strong> Highly proficient with Mac OS X including networking setup and basic hardware repair and servicing. Comfortable with basic Linux server management and setup via cPanel or terminal.</li>
-	<li><strong>Marketing-</strong> Experience includes on-campus marketing on behalf of Apple computers, and a recording studio as well as social marketing for a podcast. Also experienced with affiliate marketing and Google AdWords.</li>
-</ul>
+<div class="twelve columns centered">
+
+<!--AT-->
+	<div class="row">
+		<div class="ten columns">
+			Academic Technology, The New School. 
+		</div>
+		<div class="two columns" style="text-align:right;">
+			New York, NY
+		</div>
+	</div>
+	<div class="row">
+		<div class="ten columns">
+			Equipment Center Lab Aide 
+		</div>
+		<div class="two columns" style="text-align:right;">
+			2009-2010
+		</div>
+	</div>
+		<div class="twelve columns">
+			<ul>
+				<li>Assisted students with A/V equipment, and computer software.</li>
+				<li>Assisted with the maintenance and inventorying of A/V equipment.</li>
+			</ul>
+		</div>
+	<hr />
+<!--Volt-->
+	<div class="row">
+		<div class="ten columns">
+			Volt Workforce Solutions
+		</div>
+		<div class="two columns" style="text-align:right;">
+			New York, NY
+		</div>
+	</div>
+	<div class="row">
+		<div class="ten columns">
+			Apple Campus Representative 
+		</div>
+		<div class="two columns" style="text-align:right;">
+			2009
+		</div>
+	</div>
+	<div class="row">
+		<div class="twelve columns">
+			<ul>
+				<li>Ran on-campus campaigns designed to educated students about Mac and iOS software and hardware.</li>
+				<li>Raised awareness of Apple student discount programs.</li>
+				<li>Coordinated with New School IT staff in regards to needs of Apple users on campus.</li>
+			</ul>
+		</div>
+	</div>
+	<hr />
+<!--Open Space Alliance-->
+	<div class="row">
+		<div class="ten columns">
+			Volt Workforce Solutions, Apple Computer
+		</div>
+		<div class="two columns" style="text-align:right;">
+			New York, NY
+		</div>
+	</div>
+	<div class="row">
+		<div class="ten columns">
+			Apple Campus Representative 
+		</div>
+		<div class="two columns" style="text-align:right;">
+			2009
+		</div>
+	</div>
+	<div class="row">
+		<div class="twelve columns">
+			<ul>
+				<li>Implemented new online communication system for Citizen's Action program.</li>
+			</ul>
+		</div>
+	</div>
+	<hr />
+<!--Delta Source Studios-->
+	<div class="row">
+		<div class="ten columns">
+			Delta Source Studios, New York, NY
+		</div>
+		<div class="two columns" style="text-align:right;">
+			New York, NY
+		</div>
+	</div>
+	<div class="row">
+		<div class="ten columns">
+			Owner, Engineer
+		</div>
+		<div class="two columns" style="text-align:right;">
+			2005-2008
+		</div>
+	</div>
+	<div class="row">
+		<div class="twelve columns">
+				<ul>
+					<li>Managed and acted as engineer for a professional recording studio.</li>
+					<li>Handled all equipment installation and maintenance.</li>
+					<li>Responsible for marketing as well as booking clients</li>
+				</ul>
+		</div>
+	</div>
+	
+</div>

@@ -56,6 +56,7 @@ get_header(); ?>
 						<?php $src = site_url('assets/r-exp.jpg') ?>
 						<li data-thumb="<?php echo $src; ?>">
 							<h3>Professional Experience</h3>
+							<?php get_template_part('resume','exp'); ?>
 						</li>
 					</ul>
 				</div>

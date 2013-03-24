@@ -12,8 +12,7 @@ $aftz = "\" width=\"150\" height=\"150\">";
 			$sq = $bef.$sqsrc.$aft;
 			echo $sq;
 			?>
-			<p style="text-align:center;">Goddard College<br />
-			Plainfield, VT</p>
+			
 		</div>
 		<div class="ten columns" >
 			<div class="row">

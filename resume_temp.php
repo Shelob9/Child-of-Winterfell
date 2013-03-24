@@ -30,7 +30,7 @@ get_header(); ?>
 			</div>
 		</div>
 		<div class="row">
-			<h5>Working to develop tools for environmental education and advocacy using open source software that leverage the power of online social media and promote a re-engagement with the natural world.</h5>
+			<h5>Working to develop tools for environmental education and advocacy using open source software that leverage the power of online social media and promotes a re-engagement with the natural world.</h5>
 		</div>
 	</hgroup>
 	<div class="row">

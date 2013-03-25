@@ -14,27 +14,27 @@
 						<?php
 						$bef = "<img src=\"";
 						$aft = "\">";
-						$link = site_url('/assets/JPollockResume.odt');
+						$link = site_url('assets/JPollockResume.odt');
 						$src = get_stylesheet_directory_uri().'/stylesheets/images/odt.png';
 						$icon = $bef.$src.$aft;
 						?>
-						<a href="<?php $link; ?>" title="Download as Open Office Text Document" style="margin-right:16px;">
+						<a href="<?php echo $link; ?>" title="Download as Open Office Text Document" style="margin-right:16px;">
 							<?php echo $icon; ?>
 						</a>
 						<?php
-						$link = site_url('/assets/JPollockResume.doc');
+						$link = site_url('assets/JPollockResume.doc');
 						$src = get_stylesheet_directory_uri().'/stylesheets/images/doc.png';
 						$icon = $bef.$src.$aft;
 						?>
-						<a href="<?php $link; ?>" title="Download as Word Doc">
+						<a href="<?php echo $link; ?>" title="Download as Word Doc">
 							<?php echo $icon; ?>
 						</a>
 						<?php
-						$link = site_url('/assets/JPollockResume.pdf');
+						$link = site_url('assets/JPollockResume.pdf');
 						$src = get_stylesheet_directory_uri().'/stylesheets/images/pdf.png';
 						$icon = $bef.$src.$aft;
 						?>
-						<a href="<?php $link; ?>" title="Download as PDF" style="margin-left:16px;">
+						<a href="<?php echo $link; ?>" title="Download as PDF" style="margin-left:16px;">
 							<?php echo $icon; ?>
 						</a>
 					</div>
@@ -65,27 +65,27 @@
 					<?php
 					$bef = "<img src=\"";
 					$aft = "\" width=\"16\" height=\"16\" style=\"float:right;\">";
-					$link = site_url('/assets/JPollockResume.odt');
+					$link = site_url('assets/JPollockResume.odt');
 					$src = get_stylesheet_directory_uri().'/stylesheets/images/odt.png';
 					$icon = $bef.$src.$aft;
 					?>
-					<a href="<?php $link; ?>" title="Download as Open Office Text Document">
+					<a href="<?php echo $link; ?>" title="Download as Open Office Text Document">
 						<?php echo $icon; ?>
 					</a>
 					<?php
-					$link = site_url('/assets/JPollockResume.doc');
+					$link = site_url('assets/JPollockResume.doc');
 					$src = get_stylesheet_directory_uri().'/stylesheets/images/doc.png';
 					$icon = $bef.$src.$aft;
 					?>
-					<a href="<?php $link; ?>" title="Download as Word Doc">
+					<a href="<?php echo $link; ?>" title="Download as Word Doc">
 						<?php echo $icon; ?>
 					</a>
 					<?php
-					$link = site_url('/assets/JPollockResume.pdf');
+					$link = site_url('assets/JPollockResume.pdf');
 					$src = get_stylesheet_directory_uri().'/stylesheets/images/pdf.png';
 					$icon = $bef.$src.$aft;
 					?>
-					<a href="<?php $link; ?>" title="Download as PDF">
+					<a href="<?php echo $link; ?>" title="Download as PDF">
 						<?php echo $icon; ?>
 					</a>
 				</div>

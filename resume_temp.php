@@ -36,10 +36,6 @@ get_header(); ?>
 				</div>
 		  </section>
 	</div>
-
-	
-
-
 </div>
 <!-- End Main Content -->
 </div><!--#Total-Wrap -->

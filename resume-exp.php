@@ -83,7 +83,7 @@
 <!--Delta Source Studios-->
 	<div class="row">
 		<div class="ten columns">
-			Delta Source Studios, New York, NY
+			Delta Source Studios
 		</div>
 		<div class="two columns" style="text-align:right;">
 			New York, NY

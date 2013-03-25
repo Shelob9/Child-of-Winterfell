@@ -40,6 +40,7 @@
 		echo '</title>';
 	} ?>
 	<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
+	<meta name="google-site-verification" content="TlUDURK84xGP7H1ZoDZ5nLy-wb36R4fH37vy8MtSZcM" />
 	<?php wp_head(); ?>
 
 </head>

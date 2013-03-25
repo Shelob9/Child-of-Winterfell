@@ -40,7 +40,7 @@
 		echo '</title>';
 	} ?>
 	<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
-	<1--verifications-->
+	<!--verifications-->
 	<meta name="alexaVerifyID" content="4qrwEy0s2b-KBN1bB6pjmWOTAGo" />
 	<meta name="google-site-verification" content="TlUDURK84xGP7H1ZoDZ5nLy-wb36R4fH37vy8MtSZcM" />
 	<meta name="msvalidate.01" content="221B61D9D405869B5C64A7EE23963EDA" />

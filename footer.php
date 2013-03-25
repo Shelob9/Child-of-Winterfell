@@ -21,6 +21,7 @@
 					<a href="mailto:JPollock412@gmail.com" class="genericon genericon-mail" style="font-size:32px;margin-right:16px;"></a>
 					<a href="http://21and24.tumblr.com" title="My tumblr of nature photos" class="genericon genericon-tumblr" style="font-size:32px;margin-right:16px;"></a>
 					<a href="https://plus.google.com/u/0/108295629672902361491" title="Google Plus Profile" class="genericon genericon-googleplus" style="font-size:32px;margin-right:16px;" rel="me"></a>
+					<a href="http://github.com/shelob9" title="Github" class="genericon genericon-github" style="font-size:32px;margin-right:16px;"></a>
 					<a href="http://www.linkedin.com/pub/josh-pollock/5/900/978" class="genericon genericon-linkedin-alt" title="Linkedin Profile" style="font-size:32px;margin-right:16px;"></a>
 				</div>
 				
@@ -28,6 +29,7 @@
 					<a href="mailto:JPollock412@gmail.com" class="genericon genericon-mail" ></a>
 					<a href="http://21and24.tumblr.com" title="My tumblr of nature photos" class="genericon genericon-tumblr"></a>
 					<a href="https://plus.google.com/u/0/108295629672902361491" title="Google Plus Profile" class="genericon genericon-googleplus" rel="me"></a>
+					<a href="http://github.com/shelob9" title="Github" class="genericon genericon-github"></a>
 					<a href="http://www.linkedin.com/pub/josh-pollock/5/900/978" class="genericon genericon-linkedin-alt" title="Linkedin Profile"></a>
 					<a href="http://twitter.com/Josh412" class="genericon genericon-twitter"></a>
 				</div>

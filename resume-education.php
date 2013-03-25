@@ -5,7 +5,7 @@ $aft = "\">";
 ?>
 <div class="twelve columns centered">
 	<div class="row">
-		<div class="two columns res-sq" style="margin-top:6px;">
+		<div class="two columns mobile-two res-sq " style="margin-top:6px;">
 			<a href="http://Goddard.edu" title="Goddard College">
 				<?php
 				$sqsrc = site_url('assets/gd-sq.jpg');
@@ -14,27 +14,37 @@ $aft = "\">";
 				?>
 			</a>	
 		</div>
+		<div class="mobile-two show-for-small" style="text-align:right;" >
+			2011-Present
+		</div>
+		<div class="mobile-four show-for-small">
+			<a href="http://www.goddard.edu/ma-individualized-studies" title="Goddard College  Individualized Masters of the Arts">
+				Individualized Masters of the Arts, Environmental Studies Concentration (Candidate)
+			</a>
+		</div>
 		<div class="ten columns" >
 			<div class="row">
-				<div class="eight columns">
-				<a href="http://www.goddard.edu/ma-individualized-studies" title="Goddard College  Individualized Masters of the Arts">
-					Individualized Masters of the Arts, Environmental Studies Concentration (Candidate)
-				</a>
+				<div class="eight columns hide-for-small">
+					<a href="http://www.goddard.edu/ma-individualized-studies" title="Goddard College  Individualized Masters of the Arts">
+						Individualized Masters of the Arts, Environmental Studies Concentration (Candidate)
+					</a>
 				</div>
-				<div class="four columns" style="text-align:right;" >
+				<div class="four columns hide-for-small" style="text-align:right;" >
 					2011-Present
 				</div>
 			</div>
+			
 				<ul style="margin-left:30px;">
 					<li>Studied green architectural theory, cognitive psychology, evolutionary biology, social organization and environmental education.</li>
 					<li>Currently preparing thesis with expected graduation date of August 2013.</li>
 					<li>Member of student council.</li>
 				</ul>
-		</div>
+			</div>
+		
 	</div>
 	<hr />	
 	<div class="row">
-		<div class="two columns res-sq" style="margin-top:6px;">
+		<div class="two columns mobile-two res-sq" style="margin-top:6px;">
 			<a href="http://www.newschool.edu/lang/" title="Euguene Lang College, The New School For Liberal Arts">
 				<?php
 				$sqsrc = site_url('assets/ns-sq.jpg');
@@ -43,14 +53,22 @@ $aft = "\">";
 				?>
 			</a>
 		</div>
+		<div class="mobile-two show-for-small" style="text-align:right;" >
+			2008-2010
+		</div>
+		<div class="mobile-four show-for-small">
+			<a href="http://www.newschool.edu/lang/environmental-studies/" title="Euguene Lang Environmental Studies">
+				Bachelor of the Arts in Environmental Studies
+			</a>		                      
+		</div>
 		<div class="ten columns" >
 			<div class="row">
-				<div class="eight columns">
+				<div class="eight columns hide-for-small">
 					<a href="http://www.newschool.edu/lang/environmental-studies/" title="Euguene Lang Environmental Studies">
 						Bachelor of the Arts in Environmental Studies
 					</a>		                      
 				</div>
-				<div class="four columns" style="text-align:right;" >
+				<div class="four columns hide-for-small" style="text-align:right;" >
 					2008-2010
 				</div>
 			</div>
@@ -63,7 +81,7 @@ $aft = "\">";
 	</div>
 	<hr />
 	<div class="row">
-		<div class="two columns res-sq" style="margin-top:6px;">
+		<div class="two columns mobile-two res-sq" style="margin-top:6px;">
 			<a href="http://FullSail.com" title="Full Sail University">
 				<?php
 				$sqsrc = site_url('assets/fs-sq.jpg');	
@@ -72,21 +90,28 @@ $aft = "\">";
 				?>
 			</a>
 		</div>
+		<div class="mobile-two show-for-small" style="text-align:right;" >
+			2008-2010
+		</div>
+		<div class="mobile-four show-for-small">
+			<a href="http://www.fullsail.edu/degrees/campus/recording-engineering-associates" title="Full Saill Recording Engineering">
+				Associate of Science in Recording Arts	
+			</a>		                      
+		</div>
 		<div class="ten columns" >
 			<div class="row">
-				<div class="eight columns">
+				<div class="eight columns hide-for-small">
 					<a href="http://www.fullsail.edu/degrees/campus/recording-engineering-associates" title="Full Saill Recording Engineering">
 						Associate of Science in Recording Arts	
 					</a>		                      
 				</div>
-				<div class="four columns" style="text-align:right;" >
-				2008-2010
+				<div class="four columns hide-for-small" style="text-align:right;" >
+					2008-2010
 				</div>
 			</div>
 				<ul style="margin-left:30px;">
 					<li>Studied audio engineering for music, film, and game production.</li>
 					<li>Studied music theory, history and business.</li>
-					
 				</ul>
 		</div>
 	</div>

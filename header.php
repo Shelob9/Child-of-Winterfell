@@ -25,7 +25,7 @@
 	<!-- Set the viewport width to device width for mobile -->
 	<meta name="viewport" content="width=device-width" />
 	
-	<?php if (is_category('81') || is_category('7'))
+	<?php if (is_category('80') || is_category('3'))
 	{
 		echo '<title>';
 		single_cat_title();

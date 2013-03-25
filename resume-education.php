@@ -39,10 +39,9 @@ $aft = "\">";
 					<li>Currently preparing thesis with expected graduation date of August 2013.</li>
 					<li>Member of student council.</li>
 				</ul>
-			</div>
-		
+		</div>
 	</div>
-	<hr />	
+<hr />	
 	<div class="row">
 		<div class="two columns mobile-two res-sq" style="margin-top:6px;">
 			<a href="http://www.newschool.edu/lang/" title="Euguene Lang College, The New School For Liberal Arts">

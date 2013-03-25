@@ -24,8 +24,21 @@
 
 	<!-- Set the viewport width to device width for mobile -->
 	<meta name="viewport" content="width=device-width" />
-
-	<title><?php wp_title(); ?></title>
+	
+	<?php if (is_category('81') || is_category('7'))
+	{
+		echo '<title>';
+		single_cat_title();
+		echo ' &raquo;';
+		bloginfo('name');
+		echo '</title>';
+	}
+	else
+	{
+		echo '<title>';
+		 wp_title();
+		echo '</title>';
+	} ?>
 	<?php if ( is_singular() ) wp_enqueue_script( 'comment-reply' ); ?>
 	<?php wp_head(); ?>
 

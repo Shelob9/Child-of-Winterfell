@@ -9,9 +9,11 @@ function cwf_scriptStyles() {
 		wp_deregister_style('main');
 		//replace foundation.min.css
 		wp_enqueue_style('child-foundation', get_stylesheet_directory_uri().'/stylesheets/foundation.min.css');
+		//genericons
+		wp_enqueue_style('genericons', get_stylesheet_directory_uri().'/stylesheets/genericons.css');
 		//enqueue main css for child theme
 		wp_enqueue_style('child-main', get_stylesheet_directory_uri().'/style.css');
-		wp_enqueue_style('genericons', get_stylesheet_directory_uri().'/stylesheets/genericons.css');
+		
 	//js
 		/**masonry settings
 		wp_dequeue_script('custom');

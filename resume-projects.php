@@ -13,11 +13,16 @@ $aft = "\">";
 			$s = $bef.$src.$aft;
 			
 			?>
-			<a id="single_image" class="group" rel="gallery1" href="<?php echo $l; ?>" title="Nature Scholar: A guide for students of the environment."> 
-							<?php echo $s; ?>
-						</a>
+			<a id="single_image" class="group" rel="gallery4" href="<?php echo $l; ?>" title="Nature Scholar, main page."> 
+				<?php echo $s; ?>
+			</a>
+			<?php $l = site_url('assets/ns1.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery4" href="<?php echo $l; ?>" title="Nature Scholar, books index."></a>
+			<?php $l = site_url('assets/ns2.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery4" href="<?php echo $l; ?>" title="Nature Scholar, book review page."></a>
 			
-		</div>
+			
+		</div> 
 		<div class="nine columns" >
 			<div class="row">
 				<div class="eight columns mobile-two">
@@ -47,9 +52,23 @@ $aft = "\">";
 			$s = $bef.$src.$aft;
 			
 			?>
-			<a id="single_image" class="group" rel="gallery1" href="<?php echo $ls; ?>" title="Winterfell Responsive WordPress Theme"> 
-							<?php echo $s; ?>
-						</a>
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, sidebar-left page template."> 
+				<?php echo $s; ?>
+			</a>
+			<?php $l = site_url('assets/wf141.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, blog post excerpts using jQuery Masonry for Pintrest-style tiling."></a>
+			<?php $l = site_url('assets/wf111.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, single post."></a>
+			
+			<?php $l = site_url('assets/lpc52.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="LorenPaulCaplin.com, about page."></a>
+			<?php $l = site_url('assets/lpc55.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="LorenPaulCaplin.com, projects page."></a>
+			<?php $l = site_url('assets/lpc53.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="New York Script Consultants, services page."></a>
+			<?php $l = site_url('assets/lpc51.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="New York Script Consultants, welcome page."></a>
+			
 			
 		</div>
 		<div class="nine columns" >
@@ -82,10 +101,11 @@ $aft = "\">";
 			$s = $bef.$src.$aft;
 			
 			?>
-			<a id="single_image" class="group" rel="gallery1" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme"> 
+			<a id="single_image" class="group" rel="gallery6" href="<?php echo $l; ?>" title="Ecohyphen.com home page."> 
 				<?php echo $s; ?>
 			</a>
-			
+			<?php $l = site_url('assets/eh221.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery6" href="<?php echo $l; ?>" title="Ecohyphen Facebook page."></a>
 		</div>
 		<div class="nine columns" >
 			<div class="row">

@@ -3,7 +3,9 @@
 
     <!-- Main Content -->
     <div class="twelve columns" role="content">
-
+    	<div class="row">
+			<h5>Here are some articles I've written for other people over the years:</h5>
+		</div>
 		<?php 
 			if (have_posts()) :
 				get_template_part( 'loop' , 'entry');

@@ -16,12 +16,12 @@ $aft = "\">";
 		</div>
 		<div class="ten columns" >
 			<div class="row">
-				<div class="ten columns">
+				<div class="eight columns">
 				<a href="http://www.goddard.edu/ma-individualized-studies" title="Goddard College  Individualized Masters of the Arts">
 					Individualized Masters of the Arts, Environmental Studies Concentration (Candidate)
 				</a>
 				</div>
-				<div class="two columns" style="text-align:right;" >
+				<div class="four columns" style="text-align:right;" >
 					2011-Present
 				</div>
 			</div>
@@ -45,12 +45,12 @@ $aft = "\">";
 		</div>
 		<div class="ten columns" >
 			<div class="row">
-				<div class="ten columns">
+				<div class="eight columns">
 					<a href="http://www.newschool.edu/lang/environmental-studies/" title="Euguene Lang Environmental Studies">
 						Bachelor of the Arts in Environmental Studies
 					</a>		                      
 				</div>
-				<div class="two columns" style="text-align:right;" >
+				<div class="four columns" style="text-align:right;" >
 					2008-2010
 				</div>
 			</div>
@@ -74,12 +74,12 @@ $aft = "\">";
 		</div>
 		<div class="ten columns" >
 			<div class="row">
-				<div class="ten columns">
+				<div class="eight columns">
 					<a href="http://www.fullsail.edu/degrees/campus/recording-engineering-associates" title="Full Saill Recording Engineering">
 						Associate of Science in Recording Arts	
 					</a>		                      
 				</div>
-				<div class="two columns" style="text-align:right;" >
+				<div class="four columns" style="text-align:right;" >
 				2008-2010
 				</div>
 			</div>

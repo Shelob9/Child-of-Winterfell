@@ -20,11 +20,13 @@ $aft = "\">";
 		</div>
 		<div class="nine columns" >
 			<div class="row">
-				<div class="ten columns">
-				<a href="http://NatureSchoalr.com" title="Nature Schoalr: Guide for student of the environment">NatureScholar.com</a>
+				<div class="eight columns mobile-two">
+					<a href="http://NatureScholar.com" title="Nature Scholar: Guide for student of the environment">
+						NatureScholar.com
+					</a>
 				</div>
-				<div class="two columns" style="text-align:right;" >
-				2012-Present
+				<div class="four columns mobile-two" style="text-align:right;" >
+					2012-Present
 				</div>
 			</div>
 				<ul style="margin-left:30px;">
@@ -52,12 +54,14 @@ $aft = "\">";
 		</div>
 		<div class="nine columns" >
 			<div class="row">
-				<div class="ten columns">
+				<div class="eight columns mobile-four">
 				<?php $cat = get_category_link( '7' ); ?> 
-				<a href="<?php echo $cat; ?>" title="WordPress">WordPress Theme Development and Site Management</a>
+				<a href="<?php echo $cat; ?>" title="WordPress">
+					WordPress Theme Development and Site Management
+				</a>
 				</div>
-				<div class="two columns" style="text-align:right;" >
-				2011-Present
+				<div class="four columns hide-for-mobile" style="text-align:right;" >
+					2011-Present
 				</div>
 			</div>
 				<ul style="margin-left:30px;">
@@ -79,17 +83,19 @@ $aft = "\">";
 			
 			?>
 			<a id="single_image" class="group" rel="gallery1" href="<?php echo $s; ?>" title="Winterfell Responsive WordPress Theme"> 
-							<?php echo $l; ?>
-						</a>
+				<?php echo $l; ?>
+			</a>
 			
 		</div>
 		<div class="nine columns" >
 			<div class="row">
-				<div class="ten columns">
-				<a href="http://Ecohyphen.com" title="Ecohyphen: eco-consiousness, eco-philosophy, eco-humor.">Ecohyphen</a>
+				<div class="eight columns mobile-two">
+				<a href="http://Ecohyphen.com" title="Ecohyphen: eco-consiousness, eco-philosophy, eco-humor.">
+					Ecohyphen
+				</a>
 				</div>
-				<div class="two columns" style="text-align:right;" >
-				2012-Present
+				<div class="four columns mobile-two" style="text-align:right;" >
+					2012-Present
 				</div>
 			</div>
 				<ul style="margin-left:30px;">

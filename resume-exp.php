@@ -2,19 +2,27 @@
 
 <!--AT-->
 	<div class="row">
-		<div class="ten columns">
+		<div class="eight columns">
 			<a href="http://www.newschool.edu/information-technology/technology-labs/" "Academic Technology, The New School">New School Academic Technology</a> 
 		</div>
-		<div class="two columns" style="text-align:right;">
+		<div class="four columns hide-for-small" style="text-align:right;">
 			New York, NY
 		</div>
 	</div>
 	<div class="row">
-		<div class="ten columns">
+		<div class="eight columns">
 			<a href="http://www.newschool.edu/information-technology/equipment-center/" title="New Shcool Equipment Center">Equipment Center</a> Lab Aide 
 		</div>
-		<div class="two columns" style="text-align:right;">
+		<div class="four columns hide-for-small" style="text-align:right;">
 			2009-2010
+		</div>
+	</div>
+	<div class="row show-for-small">
+		<div class="mobile-two">
+			2009-2010
+		</div>
+		<div class="mobile-two">
+			New York, NY
 		</div>
 	</div>
 		<div class="twelve columns">
@@ -26,20 +34,28 @@
 	<hr />
 <!--Volt-->
 	<div class="row">
-		<div class="ten columns">
+		<div class="eight columns">
 			<a href="http://Volt.com" title="Volt Workforce Solutions">
 				Volt Workforce Solutions
 			</a>
 		</div>
-		<div class="two columns" style="text-align:right;">
+		<div class="four columns hide-for-small" style="text-align:right;">
 			New York, NY
 		</div>
 	</div>
 	<div class="row">
-		<div class="ten columns">
+		<div class="eight columns">
 			<a href="http://www.apple.com/education/campusreps/" title="Apple Campus Rep Program">Apple Campus Representative</a>
 		</div>
-		<div class="two columns" style="text-align:right;">
+		<div class="four columns hide-for-small" style="text-align:right;">
+			2009
+		</div>
+	</div>
+	<div class="row show-for-small">
+		<div class="mobile-two">
+			New York, NY
+		</div>
+		<div class="mobile-two">
 			2009
 		</div>
 	</div>
@@ -55,20 +71,28 @@
 	<hr />
 <!--Open Space Alliance-->
 	<div class="row">
-		<div class="ten columns">
+		<div class="eight columns">
 			<a href="http:/OSINY.org" title="Open Space Alliance of New York">
 				Open Space Alliance of New York
 			</a>
 		</div>
-		<div class="two columns" style="text-align:right;">
+		<div class="four columns hide-for-small" style="text-align:right;">
 			New York, NY
 		</div>
 	</div>
 	<div class="row">
-		<div class="ten columns">
+		<div class="eight columns">
 			Intern
 		</div>
-		<div class="two columns" style="text-align:right;">
+		<div class="four columns hide-for-small" style="text-align:right;">
+			2009
+		</div>
+	</div>
+	<div class="row show-for-small">
+		<div class="mobile-two">
+			New York, NY
+		</div>
+		<div class="mobile-two">
 			2009
 		</div>
 	</div>
@@ -82,18 +106,26 @@
 	<hr />
 <!--Delta Source Studios-->
 	<div class="row">
-		<div class="ten columns">
+		<div class="eight columns">
 			Delta Source Studios
 		</div>
-		<div class="two columns" style="text-align:right;">
+		<div class="four columns hide-for-small" style="text-align:right;">
 			New York, NY
 		</div>
 	</div>
 	<div class="row">
-		<div class="ten columns">
+		<div class="eight columns">
 			Owner, Engineer
 		</div>
-		<div class="two columns" style="text-align:right;">
+		<div class="four columns hide-for-small" style="text-align:right;">
+			
+		</div>
+	</div>
+	<div class="row show-for-small">
+		<div class="mobile-two">
+			New York, NY
+		</div>
+		<div class="mobile-two">
 			2005-2008
 		</div>
 	</div>

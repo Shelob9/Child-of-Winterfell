@@ -8,13 +8,13 @@ $aft = "\">";
 	<div class="row">
 		<div class="three columns res-rec" >
 			<?php
-			$s = site_url('assets/naturescholar-300x150.jpg');
-			$src = site_url('assets/naturescholar.jpg');
-			$l = $bef.$src.$aft;
+			$l = site_url('assets/ns3.jpg');
+			$src = site_url('assets/naturescholar-300x150.jpg');
+			$s = $bef.$src.$aft;
 			
 			?>
-			<a id="single_image" class="group" rel="gallery1" href="<?php echo $s; ?>" title="Nature Scholar: A guide for students of the environment."> 
-							<?php echo $l; ?>
+			<a id="single_image" class="group" rel="gallery1" href="<?php echo $l; ?>" title="Nature Scholar: A guide for students of the environment."> 
+							<?php echo $s; ?>
 						</a>
 			
 		</div>
@@ -42,13 +42,13 @@ $aft = "\">";
 	<div class="row">
 		<div class="three columns res-rec" >
 			<?php
-			$s = site_url('assets/wf900-300x211.png');
-			$src = site_url('assets/wf900.png');
-			$l = $bef.$src.$aft;
+			$l = site_url('assets/wf121.jpg');
+			$src = site_url('assets/wf141-300x266.jpg');
+			$s = $bef.$src.$aft;
 			
 			?>
-			<a id="single_image" class="group" rel="gallery1" href="<?php echo $s; ?>" title="Winterfell Responsive WordPress Theme"> 
-							<?php echo $l; ?>
+			<a id="single_image" class="group" rel="gallery1" href="<?php echo $ls; ?>" title="Winterfell Responsive WordPress Theme"> 
+							<?php echo $s; ?>
 						</a>
 			
 		</div>
@@ -77,13 +77,13 @@ $aft = "\">";
 	<div class="row">
 		<div class="three columns res-rec" >
 			<?php
-			$s = site_url('assets/banner-turtle-300x100.png');
-			$src = site_url('assets/banner-turtle.png');
-			$l = $bef.$src.$aft;
+			$l = site_url('assets/eh211.jpg');
+			$src = site_url('assets/banner-turtle-300x100.png');
+			$s = $bef.$src.$aft;
 			
 			?>
-			<a id="single_image" class="group" rel="gallery1" href="<?php echo $s; ?>" title="Winterfell Responsive WordPress Theme"> 
-				<?php echo $l; ?>
+			<a id="single_image" class="group" rel="gallery1" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme"> 
+				<?php echo $s; ?>
 			</a>
 			
 		</div>

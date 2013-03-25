@@ -47,16 +47,17 @@ $aft = "\">";
 	<div class="row">
 		<div class="three columns res-rec" >
 			<?php
-			$l = site_url('assets/wf121.jpg');
+			$l = site_url('assets/wf141.jpg');
 			$src = site_url('assets/wf141-300x266.jpg');
 			$s = $bef.$src.$aft;
 			
 			?>
-			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, sidebar-left page template."> 
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, blog post excerpts using jQuery Masonry for Pintrest-style tiling.">
+			
 				<?php echo $s; ?>
 			</a>
-			<?php $l = site_url('assets/wf141.jpg'); ?>
-			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, blog post excerpts using jQuery Masonry for Pintrest-style tiling."></a>
+			<?php $l = site_url('assets/wf121.jpg'); ?>
+			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, sidebar-left page template."> </a>
 			<?php $l = site_url('assets/wf111.jpg'); ?>
 			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, single post."></a>
 			

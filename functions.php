@@ -11,15 +11,6 @@ function cwf_scriptStyles() {
 		wp_enqueue_style('child-foundation', get_stylesheet_directory_uri().'/stylesheets/foundation.min.css');
 		//genericons
 		wp_enqueue_style('genericons', get_stylesheet_directory_uri().'/stylesheets/genericons.css');
-		//enqueue main css for child theme
-		wp_enqueue_style('child-main', get_stylesheet_directory_uri().'/style.css');
-		
-	//js
-		/**masonry settings
-		wp_dequeue_script('custom');
-		wp_deregister_script('custom');
-		wp_enqueue_script('masonry-settings', get_stylesheet_directory_uri().'/javascripts/custom.js');
-		**/
 		// flexslider
 		wp_enqueue_script('flexslider', get_stylesheet_directory_uri().'/javascripts/jquery.flexslider-min.js', array('jquery'));
 		wp_enqueue_script('flexslider-init', get_stylesheet_directory_uri().'/javascripts/flexslider-init.js', array('jquery', 'flexslider'));
@@ -29,6 +20,16 @@ function cwf_scriptStyles() {
 		wp_enqueue_style('fancybox', get_stylesheet_directory_uri().'/stylesheets/jquery.fancybox.css');
 		wp_enqueue_script('fancybox', get_stylesheet_directory_uri().'/javascripts/jquery.fancybox.js');
 		wp_enqueue_script('fancyboxSet', get_stylesheet_directory_uri().'/javascripts/fancybox-set.js', array(), false, true);
+		//enqueue main css for child theme
+		wp_enqueue_style('child-main', get_stylesheet_directory_uri().'/style.css');
+		
+	//js
+		/**masonry settings
+		wp_dequeue_script('custom');
+		wp_deregister_script('custom');
+		wp_enqueue_script('masonry-settings', get_stylesheet_directory_uri().'/javascripts/custom.js');
+		**/
+		
 	}
 add_action( 'wp_enqueue_scripts', 'cwf_scriptStyles', 20 );
 		add_image_size( 'face', 50, 66);

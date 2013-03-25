@@ -47,7 +47,7 @@
 
 <body <?php body_class(); ?>>
 	<div class="row total-wrap">
-	<?php if (!is_page( '478')) { ?>
+	<?php if (!is_page( '463')) { ?>
 		<header>
 			<div class="row">
 				<div class="site-title six columns mobile-four">

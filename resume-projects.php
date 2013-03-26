@@ -15,7 +15,12 @@ $aft = "\">";
 			?>
 			<a id="single_image" class="group" rel="gallery4" href="<?php echo $l; ?>" title="Nature Scholar, main page."> 
 				<?php echo $s; ?>
+				<br />
+				<p style="text-align:center;">
+					Click for screenshots
+				</p>
 			</a>
+			
 			<?php $l = site_url('assets/ns1.jpg'); ?>
 			<a id="single_image" class="group" rel="gallery4" href="<?php echo $l; ?>" title="Nature Scholar, books index."></a>
 			<?php $l = site_url('assets/ns2.jpg'); ?>
@@ -53,8 +58,11 @@ $aft = "\">";
 			
 			?>
 			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, blog post excerpts using jQuery Masonry for Pintrest-style tiling.">
-			
 				<?php echo $s; ?>
+				<br />
+				<p style="text-align:center;">
+					Click for screenshots
+				</p>
 			</a>
 			<?php $l = site_url('assets/wf121.jpg'); ?>
 			<a id="single_image" class="group" rel="gallery5" href="<?php echo $l; ?>" title="Winterfell Responsive WordPress Theme, sidebar-left page template."> </a>
@@ -104,6 +112,10 @@ $aft = "\">";
 			?>
 			<a id="single_image" class="group" rel="gallery6" href="<?php echo $l; ?>" title="Ecohyphen.com home page."> 
 				<?php echo $s; ?>
+				<br />
+				<p style="text-align:center;">
+					Click for screenshots
+				</p>
 			</a>
 			<?php $l = site_url('assets/eh221.jpg'); ?>
 			<a id="single_image" class="group" rel="gallery6" href="<?php echo $l; ?>" title="Ecohyphen Facebook page."></a>

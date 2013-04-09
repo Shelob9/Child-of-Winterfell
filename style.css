@@ -3,7 +3,7 @@ Theme Name: ComplexWaveform Winterfell Child
 Description: Child theme for the Winterfell theme 
 Author: Your name here
 Template: winterfell
-Version: 13.1.2
+Version: 13.1.1
 */
 
 /**
@@ -214,6 +214,4 @@ border:solid 1px #e6e6e6;
 max-width: 150px;
 height: auto;
 }
-.flex-control-thumbs { margin: -185px 0 0; } // height of the thumb-nav
 
-.flex-control-nav { position: absolute !important; }

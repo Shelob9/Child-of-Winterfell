@@ -19,7 +19,7 @@
 
 		<?php if ( has_post_thumbnail()) : ?>
 			<div class="post-thumb">
-				<a href="<?php the_permalink(); ?>" class="th" title="<?php the_title_attribute(); ?>" ><?php the_post_thumbnail(); ?></a>
+				<a href="<?php the_permalink(); ?>" class="th" title="<?php the_title_attribute(); ?>" ><?php the_post_thumbnail('thumb'); ?></a>
 			</div>	<?php endif; ?>
 		<span style="color:#24221f;">
 			<?php the_content(); ?>

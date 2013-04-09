@@ -19,7 +19,7 @@
 	</header>
 
 	<?php if ( has_post_thumbnail()) : ?>
-	<a href="<?php the_permalink(); ?>" class="th" title="<?php the_title_attribute(); ?>" ><?php the_post_thumbnail(); ?></a>
+	<a href="<?php the_permalink(); ?>" class="th" title="<?php the_title_attribute(); ?>" ><?php the_post_thumbnail('thumb'); ?></a>
 	<?php endif; ?>
 
 	<?php the_excerpt(); ?>

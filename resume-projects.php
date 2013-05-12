@@ -40,7 +40,7 @@ $aft = "\">";
 				</div>
 			</div>
 				<ul style="margin-left:30px;">
-					<li>Co-founder, web designer for environmental education website.</li>
+					<li>Co-founder, web developer for environmental education website.</li>
 					<li>Designed custom WordPress theme including author profit-sharing system utilizing Google AdWords and Amazon Associates.</li>
 					<li>Responsible for contributing original content as well as soliciting content from freelancer writers.</li>
 				</ul>
@@ -93,7 +93,7 @@ $aft = "\">";
 				</div>
 			</div>
 				<ul style="margin-left:30px;">
-					<li>Developing WordPress themes, <a href="http://complexwaveform.com/jp/winterfell" title="Winterfell WordPress Theme">"Winterfell"</a> and "Second Foundation." </li>
+					<li>Developing WordPress themes, <a href="http://complexwaveform.com/jp/winterfell" title="Winterfell WordPress Theme">"Winterfell"</a> and <a href="http://complexwaveform.com/jp/sf" title="Second Foundation.">_Second Foundation</a>, an advanced stater theme.</li>
 					<li>Developed and managed <a href="http://LorenPaulCaplin.com" title="Loren-Paul Caplin">portfolio</a> and <a href="http://NewYorkScriptConsultants.com" title="New York Script Consultants">consulting</a> sites for writer, musician and professor Loren-Paul Caplin.</li>
 					<li>Member of <a href="http://make.wordpress.org/themes/" title="WordPress Theme Review Team">Theme Review Team</a> for <a href="http://WordPress.org" title="WordPress.org">WordPress.org</a>.</li>
 				</ul>

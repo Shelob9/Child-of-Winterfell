@@ -25,14 +25,14 @@ jQuery(document).ready(function($) {
 		State = History.getState(); // Note: Using History.getState() instead of event.state
 		// History.log('statechange:', State.data, State.title, State.url);
 		//console.log(event);
-		$("#primary").prepend('<div id="ajax-loader"><h4>Loading...</h4></div>');
+		$(".total-wrap").prepend('<div id="ajax-loader"><h4>Loading...</h4></div>');
 		$("#ajax-loader").fadeIn();
-		$('#site-description').fadeTo(200,0);
+		$('.subheader').fadeTo(200,0);
 		$('#content').fadeTo(200,.3);
-		$("#main").load(State.url + ' #primary, #secondary', function(data) {
+		$("header").load(State.url + ' #primary, #secondary', function(data) {
 			/* After the content loads you can make additional callbacks*/
-			$('#site-description').text('Ajax loaded: ' + State.url);
-			$('#site-description').fadeTo(200,1);
+			$('.subheader').text('Ajax loaded: ' + State.url);
+			$('.subheader').fadeTo(200,1);
 			$('#content').fadeTo(200,1);
 			
 			// Updates the menu

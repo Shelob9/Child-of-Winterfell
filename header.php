@@ -44,6 +44,15 @@
 	<meta name="alexaVerifyID" content="4qrwEy0s2b-KBN1bB6pjmWOTAGo" />
 	<meta name="google-site-verification" content="TlUDURK84xGP7H1ZoDZ5nLy-wb36R4fH37vy8MtSZcM" />
 	<meta name="msvalidate.01" content="221B61D9D405869B5C64A7EE23963EDA" />
+	<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-41916543-1', 'complexwaveform.com');
+		  ga('send', 'pageview');
+	</script>
 	<?php wp_head(); ?>
 
 </head>

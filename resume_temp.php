@@ -5,7 +5,7 @@
 get_header(); ?>
 
 <!-- Main Content -->
-<div class="twelve columns" role="content">
+<div class="twelve columns" id="content">
 	<?php get_template_part('resume','header'); ?>
 	<div class="row">
 		<div id="main" role="main" class="twelve columns centered ">

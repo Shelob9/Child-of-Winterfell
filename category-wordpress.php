@@ -2,7 +2,7 @@
 
 
     <!-- Main Content -->
-    <div class="twelve columns" role="content">
+    <div class="twelve columns" id="content">
 
 		<div class="row">
 			<div class="four columns">

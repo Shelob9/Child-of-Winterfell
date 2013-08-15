@@ -7,7 +7,7 @@ get_header(); ?>
 
 
     <!-- Main Content -->
-    <div class="twelve columns" role="content">
+    <div class="twelve columns" id="content">
 <div class="four columns">
 			<?php $src = site_url('/assets/sitting@goddard.jpg', 'http'); ?>
 			<img src="<?php echo $src; ?>" class="radi-only">
